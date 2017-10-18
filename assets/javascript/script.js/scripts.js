@@ -1,4 +1,4 @@
-/
+
 var toonsArray = ["Peter Griffin", "Homer Simpson", "Randy Marsh", "Bob Belcher", "Hank Hill"];
 
 $(document).ready(function() {

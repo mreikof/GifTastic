@@ -1,6 +1,6 @@
-<!--GifTastic css-->
+
 body {
-    background: url("#") no-repeat center center fixed;
+    background-color: dodgerBlue;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -8,23 +8,26 @@ body {
 }
 
 h1 {
-    font-family: Lobster;
+    font-family: slateBlue;
+    font-weight:600;
+
 }
 
 .ratings {
-    color: yellow;
+    color: slateBlue;
     font-family: avenir;
     font-size: 18px;
 }
 
 h1 {
     color: white;
-    font-size: 45px;
+    font-size: 95px;
+    font-family: comic sans MS;
 }
 
 .btn-primary {
     margin-left: 10px;
-    background: yellow;
+    background: lightGray;
     color: blue;
 }
 
